@@ -23,3 +23,4 @@ I'm Luis, a passionate and hungry to learn full stack developer from Philippines
 ## :iphone: Socials
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/basedshrewd/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/7911)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/basedshrewd/)
