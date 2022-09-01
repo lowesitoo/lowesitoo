@@ -3,6 +3,9 @@ Welcome to my profile!
 
 ## 🚀 About Me
 I'm Luis, a passionate and hungry to learn full stack developer from Philippines!
+What I think about myself
+> Funny
+> Competitive
 
 ## 🛠 Skills (Front-end)
 ![My Skills](https://skillicons.dev/icons?i=html,css,react)
