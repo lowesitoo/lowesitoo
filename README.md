@@ -1,7 +1,7 @@
 # Hi there 👋!
 Welcome to my profile!
 
-# 🚀 About Me
+## 🚀 About Me
 I'm Luis, a passionate and hungry to learn full stack developer from Philippines!
 <br> <br>
 **What I think about myself**
@@ -11,16 +11,16 @@ I'm Luis, a passionate and hungry to learn full stack developer from Philippines
 - Friendly
 - Laidback
 
-# 🛠 Skills (Front-end)
+## 🛠 Skills (Front-end)
 ![My Skills](https://skillicons.dev/icons?i=html,css,react)
 
-# 🛠 Skills (Back-end)
+## 🛠 Skills (Back-end)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express)
 
-# 🛠 Skills (Programing Language/Others)
+## 🛠 Skills (Programing Language/Others)
 ![My Skills](https://skillicons.dev/icons?i=unity,js,figma,py,git,cs,ps)
 
-# :iphone: Socials
+## :iphone: Socials
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/basedshrewd/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/7911)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/basedshrewd/)
