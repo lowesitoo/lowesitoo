@@ -18,7 +18,7 @@ I'm Luis, a passionate and hungry to learn full stack developer from Philippines
 ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express)
 
 ## 🛠 Skills (Programing Language)
-![My Skills](https://skillicons.dev/icons?i=unity,js,figma,py,git,cs,ps,java)
+![My Skills](https://skillicons.dev/icons?i=js,py,git,cs,ps,java)
 
 ## 🛠 Skills (Others)
 ![My Skills](https://skillicons.dev/icons?i=unity,figma,ps,androidstudio)
