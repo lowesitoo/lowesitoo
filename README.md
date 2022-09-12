@@ -12,7 +12,7 @@ I'm Luis, a passionate and hungry to learn full stack developer from Philippines
 - Laidback
 
 ## 🛠 Skills (Front-end)
-![My Skills](https://skillicons.dev/icons?i=html,css,react)
+![My Skills](https://skillicons.dev/icons?i=html,css,react,bootstrap)
 
 ## 🛠 Skills (Back-end)
 ![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,express)
