@@ -24,7 +24,7 @@ I'm Luis, a passionate and hungry to learn full stack developer from Philippines
 ![My Skills](https://skillicons.dev/icons?i=unity,figma,ps,androidstudio,vercel)
 
 ## :iphone: Socials
-[![My Skills](https://skillicons.dev/icons?i=instagram&perline=1)](https://www.instagram.com/basedshrewd/)
-[![My Skills](https://skillicons.dev/icons?i=discord&perline=1)](https://discordapp.com/users/7911) 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/basedshrewd/)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/basedshrewd/) <br>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/7911) <br>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/basedshrewd/)
 
